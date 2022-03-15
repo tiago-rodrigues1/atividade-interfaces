@@ -1,6 +1,11 @@
-package br.edu.ifrn.sc.peoo.interfaces.parte1;
+/*
+ * Gabrielly Beatriz
+ * Tiago Rodrigues
+ */
+package br.edu.ifrn.sc.peoo.interfaces.parte1.zoovirtual;
 
 public class Ornitorrinco implements Animal {
+
     private double peso;
 
     public Ornitorrinco(double peso) {
@@ -26,6 +31,5 @@ public class Ornitorrinco implements Animal {
     public double peso() {
         return peso;
     }
-    
-    
+
 }

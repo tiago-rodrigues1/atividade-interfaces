@@ -1,4 +1,8 @@
-package br.edu.ifrn.sc.peoo.interfaces.parte1;
+/*
+ * Gabrielly Beatriz
+ * Tiago Rodrigues
+ */
+package br.edu.ifrn.sc.peoo.interfaces.parte1.zoovirtual;
 
 public class Morcego implements Animal {
 

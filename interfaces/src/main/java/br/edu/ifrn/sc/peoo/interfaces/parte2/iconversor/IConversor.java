@@ -1,8 +1,7 @@
 /*
  * Gabrielly Beatriz
  * Tiago Rodrigues
-*/
-
+ */
 package br.edu.ifrn.sc.peoo.interfaces.parte2.iconversor;
 
 public interface IConversor {
