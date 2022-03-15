@@ -1,4 +1,8 @@
-package br.edu.ifrn.sc.peoo.interfaces.parte1;
+/*
+ * Gabrielly Beatriz
+ * Tiago Rodrigues
+ */
+package br.edu.ifrn.sc.peoo.interfaces.parte1.zoovirtual;
 
 public class Zebra implements Animal {
 
@@ -29,7 +33,7 @@ public class Zebra implements Animal {
     public double peso() {
         return peso;
     }
-    
+
     public void contaListras() {
         System.out.printf("Essa zebra tem %d listras\n", listras);
     }
